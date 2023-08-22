@@ -1,12 +1,3 @@
-/*
- *********************************************
- *  314 Principles of Programming Languages  *
- *  Spring 2023                              *
- *  Student Version                          *
- *  Author: Nathan K Roh                     *
- *********************************************
- */
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
