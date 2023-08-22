@@ -1,14 +1,4 @@
-/*
- *********************************************
- *  314 Principles of Programming Languages  *
- *  Spring 2023                              *
- *  Student Version                          *
- *  Author:                                  *
- *********************************************
- */
-
 /* -------------------------------------------------
-
             CFG for tinyL LANGUAGE
 
      PROGRAM ::= STMTLIST .
